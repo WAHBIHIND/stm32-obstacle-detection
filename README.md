@@ -53,3 +53,10 @@ Ce projet implémente un système d'alerte et de détection d'obstacles en temps
 │   └── Src/       # Fichiers sources (.c) et boucle principale
 ├── Docs/          # Captures d'écran Saleae Logic 2 (signaux Trig/Echo)
 └── README.md
+## 📊 Non-Intrusive Logic & Timing Analysis (Saleae Logic 2)
+
+### Timing & Signal Verification
+![Saleae Logic 2 Signals Capture](saleae_analysis.png_1.png)
+
+### Real-Time Execution Tracking
+![Saleae Logic 2 Detailed Analysis](saleae_analysis.png_2.png)
