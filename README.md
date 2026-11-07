@@ -59,4 +59,4 @@ Ce projet implémente un système d'alerte et de détection d'obstacles en temps
 ![Saleae Logic 2 Signals Capture](saleae_analysis.png_1.png)
 
 ### Real-Time Execution Tracking
-![Saleae Logic 2 Detailed Analysis](saleae_analysis.png_2.png)
+![Saleae Logic 2 Detailed Analysis](saleae_analysis.png%202.png)
